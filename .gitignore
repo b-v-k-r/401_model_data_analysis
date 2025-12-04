@@ -1,0 +1,74 @@
+# Data files
+*.csv
+*.parquet
+*.parquet.gzip
+*.parquet.snappy
+*.xlsx
+*.xls
+*.tsv
+*.json
+*.jsonl
+*.pickle
+*.pkl
+*.h5
+*.hdf5
+*.feather
+*.arrow
+*.db
+*.sqlite
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Models
+*.pt
+*.pth
+*.ckpt
+*.model
+*.weights
+
+# Environment variables
+.env
+.env.local
+
